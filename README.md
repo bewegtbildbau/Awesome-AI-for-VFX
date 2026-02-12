@@ -3,7 +3,7 @@ A curated collection of research papers, tools, workflows, and repositories for 
 
 ## Roto/Prep
 
-:star: [SAM 3](https://github.com/facebookresearch/sam3)
+:star: [SAM 3: Segement Anything](https://github.com/facebookresearch/sam3)
 
 Used in productions. Great to generate masks for all kinds of things. For temping shots these can be great. Somtimes can replace manual rotoscoping.
 
@@ -49,9 +49,17 @@ Interesting idea. Could a distinct model be trained to learn how to comp which c
 
 ## Shading/Texturing
 
+[CHORD: Generating PBR Materials](https://ubisoft-laforge.github.io/world/chord/)
+
 ## Ligthing
 
 ## Rendering
+
+Wētā FX ML Denoiser
+
+Diseny ML Denoiser
+
+[Intel Open Image Denoiser](https://www.openimagedenoise.org/)
 
 ## Animation
 

@@ -71,6 +71,10 @@ Diseny ML Denoiser
 
 ## Gen AI
 
+[ComfyUI: Nuke for Models](https://github.com/Comfy-Org/ComfyUI)
+
+:star: Used in production. Node based GUI for diffusion models.
+
 ### Video
 
 ### Stills

@@ -81,3 +81,13 @@ Diseny ML Denoiser
 
 ## World Buidling AI
 
+## More Infos and Sources
+
+### Conferences
+
+[Siggraph: THE conference for computer graphics](https://www.siggraph.org/)
+[CVPR: THE conferfence for computer vision](https://cvpr.thecvf.com/)
+
+### Research Overview
+
+[Artificial Intelligence in Creative Industries: Advances Prior to 2025](https://arxiv.org/html/2501.02725v4)

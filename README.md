@@ -7,6 +7,14 @@ A curated collection of research papers, tools, workflows, and repositories for 
 
 Used in productions. Great to generate masks for all kinds of things. For temping shots these can be great. Somtimes can replace manual rotoscoping.
 
+### Painting
+
+[Deep Learning-based Image and Video Inpainting: A Survey](https://arxiv.org/abs/2401.03395)
+
+Overview of image and video inpainting mehtods.
+
+[ProPainter: Improving Propagation and Transformer for Video Inpainting](https://shangchenzhou.com/projects/ProPainter/)
+
 ###
 
 ## Compositing
@@ -86,6 +94,7 @@ Diseny ML Denoiser
 ### Conferences
 
 [Siggraph: THE conference for computer graphics](https://www.siggraph.org/)
+
 [CVPR: THE conferfence for computer vision](https://cvpr.thecvf.com/)
 
 ### Research Overview

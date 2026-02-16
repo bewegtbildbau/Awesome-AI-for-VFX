@@ -3,17 +3,12 @@ A curated collection of research papers, tools, workflows, and repositories for 
 
 ## Roto/Prep
 
-:star: [SAM 3: Segement Anything](https://github.com/facebookresearch/sam3)
-
-Used in productions. Great to generate masks for all kinds of things. For temping shots these can be great. Somtimes can replace manual rotoscoping.
+* :star: [SAM 3: Segement Anything](https://github.com/facebookresearch/sam3) - Used in productions. Great to generate masks for all kinds of things. For temping shots these can be great. Somtimes can replace manual rotoscoping.
 
 ### Painting
 
-[Deep Learning-based Image and Video Inpainting: A Survey](https://arxiv.org/abs/2401.03395)
-
-Overview of image and video inpainting mehtods.
-
-[ProPainter: Improving Propagation and Transformer for Video Inpainting](https://shangchenzhou.com/projects/ProPainter/)
+* [Deep Learning-based Image and Video Inpainting: A Survey](https://arxiv.org/abs/2401.03395) - Overview of image and video inpainting mehtods.
+* [ProPainter: Improving Propagation and Transformer for Video Inpainting](https://shangchenzhou.com/projects/ProPainter/)
 
 ###
 
@@ -23,25 +18,18 @@ Overview of image and video inpainting mehtods.
 
 ### Creating util layers
 
-:star: [Depth Anything 3](https://github.com/ByteDance-Seed/Depth-Anything-3/tree/main)
-
-This is already heavily used in productions. For volumes/particles this can sometimes be enough to integrate elements without the need for rotoscoping/rotomation. 
+* :star: [Depth Anything 3](https://github.com/ByteDance-Seed/Depth-Anything-3/tree/main) - This is already heavily used in productions. For volumes/particles this can sometimes be enough to integrate elements without the need for rotoscoping/rotomation. 
 
 ### ML Runner
 
-[ML Server](https://github.com/lprestini/ml-runner)
-
-A gizmo in Nuke connectes to a Server which is able to run Models like SAM3 or Depth to Anything 3.
+* [ML Server](https://github.com/lprestini/ml-runner) - A gizmo in Nuke connectes to a Server which is able to run Models like SAM3 or Depth to Anything 3.
 
 ### Nuke MCP Server
 
-[MCP Server and Tool code for Nuke](https://github.com/dughogan/nuke_mcp)
-
-[Another Nuke MCP](https://github.com/flowagent-sh/nuke-mcp)
-
-Interesting idea. Could a distinct model be trained to learn how to comp which can be used localy as well?
-
-:question: Could we make an AI autocomplete? Cursor for Nuke?
+* Interesting idea. Could a distinct model be trained to learn how to comp which can be used localy as well?
+* :question: Could we make an AI autocomplete? Cursor for Nuke?
+* [MCP Server and Tool code for Nuke](https://github.com/dughogan/nuke_mcp)
+* [Another Nuke MCP](https://github.com/flowagent-sh/nuke-mcp)
 
 ## Matte Painting
 
@@ -51,23 +39,19 @@ Interesting idea. Could a distinct model be trained to learn how to comp which c
 
 ## Modeling
 
-[Trellis 2](https://microsoft.github.io/TRELLIS.2/)
-
-:question: Creating 3d Models from pictures. Would love to know how much this is used.
+* [Trellis 2](https://microsoft.github.io/TRELLIS.2/) - :question: Creating 3d Models from pictures. Would love to know how much this is used.
 
 ## Shading/Texturing
 
-[CHORD: Generating PBR Materials](https://ubisoft-laforge.github.io/world/chord/)
+* [CHORD: Generating PBR Materials](https://ubisoft-laforge.github.io/world/chord/)
 
 ## Ligthing
 
 ## Rendering
 
-Wētā FX ML Denoiser
-
-Diseny ML Denoiser
-
-[Intel Open Image Denoiser](https://www.openimagedenoise.org/)
+* Wētā FX ML Denoiser
+* Diseny ML Denoiser
+* [Intel Open Image Denoiser](https://www.openimagedenoise.org/)
 
 ## Animation
 
@@ -79,9 +63,7 @@ Diseny ML Denoiser
 
 ## Gen AI
 
-[ComfyUI: Nuke for Models](https://github.com/Comfy-Org/ComfyUI)
-
-:star: Used in production. Node based GUI for diffusion models.
+* [ComfyUI: Nuke for Models](https://github.com/Comfy-Org/ComfyUI) - :star: Used in production. Node based GUI for diffusion models.
 
 ### Video
 
@@ -93,10 +75,9 @@ Diseny ML Denoiser
 
 ### Conferences
 
-[Siggraph: THE conference for computer graphics](https://www.siggraph.org/)
-
-[CVPR: THE conferfence for computer vision](https://cvpr.thecvf.com/)
+* [Siggraph: THE conference for computer graphics](https://www.siggraph.org/)
+* [CVPR: THE conferfence for computer vision](https://cvpr.thecvf.com/)
 
 ### Research Overview
 
-[Artificial Intelligence in Creative Industries: Advances Prior to 2025](https://arxiv.org/html/2501.02725v4)
+* [Artificial Intelligence in Creative Industries: Advances Prior to 2025](https://arxiv.org/html/2501.02725v4)

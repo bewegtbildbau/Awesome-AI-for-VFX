@@ -63,7 +63,7 @@ A curated collection of research papers, tools, workflows, and repositories for 
 
 ## Gen AI
 
-* [ComfyUI: Nuke for Models](https://github.com/Comfy-Org/ComfyUI) - :star: Used in production. Node based GUI for diffusion models.
+* :star: [ComfyUI: Nuke for Models](https://github.com/Comfy-Org/ComfyUI) - Used in production. Node based GUI for diffusion models.
 
 ### Video
 

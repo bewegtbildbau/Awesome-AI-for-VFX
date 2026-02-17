@@ -20,7 +20,7 @@ A curated collection of research papers, tools, workflows, and repositories for 
 
 * :star: [Depth Anything 3](https://github.com/ByteDance-Seed/Depth-Anything-3/tree/main) - This is already heavily used in productions. For volumes/particles this can sometimes be enough to integrate elements without the need for rotoscoping/rotomation. 
 
-### Debluriong
+### Deblurring
 
 [FMA-Net: Flow-Guided Dynamic Filtering and Iterative Feature Refinement with Multi-Attention for Joint Video Super-Resolution and Deblurring
 ] (https://kaist-viclab.github.io/fmanet-site/)

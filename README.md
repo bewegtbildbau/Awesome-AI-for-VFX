@@ -25,6 +25,10 @@ A curated collection of research papers, tools, workflows, and repositories for 
 [FMA-Net: Flow-Guided Dynamic Filtering and Iterative Feature Refinement with Multi-Attention for Joint Video Super-Resolution and Deblurring
 ] (https://kaist-viclab.github.io/fmanet-site/)
 
+### Dynamic range improvements
+
+* [LEDiff: Latent Exposure Diffusion for HDR Generation](https://lediff.mpi-inf.mpg.de/) - Resotring dynamic range through diffusion.
+
 ### ML Runner
 
 * [ML Server](https://github.com/lprestini/ml-runner) - A gizmo in Nuke connectes to a Server which is able to run Models like SAM3 or Depth to Anything 3.
@@ -69,6 +73,10 @@ A curated collection of research papers, tools, workflows, and repositories for 
 ## Gen AI
 
 * :star: [ComfyUI: Nuke for Models](https://github.com/Comfy-Org/ComfyUI) - Used in production. Node based GUI for diffusion models.
+
+### going beyond 1: HDR
+
+* [ComfyUI HDR VAE Decode Node](https://github.com/netocg/vae-decode-hdr) - Looks quite intereisting. Original repo is down. Seems to be the same appraoch as LEDiff (see above).
 
 ### Video
 

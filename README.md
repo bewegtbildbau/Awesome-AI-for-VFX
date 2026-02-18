@@ -86,6 +86,25 @@ A curated collection of research papers, tools, workflows, and repositories for 
 
 ## More Infos and Sources
 
+### Data Sets
+
+These sets come with different metadata like descriptions, segmentations and classifications.
+
+ * [CelebA HQ](https://github.com/switchablenorms/CelebAMask-HQ) - 30.000 cropped images of heads / 1024*1024 / 2.8 GB
+ * [Flickr-Faces-HQ Dataset ](https://github.com/NVlabs/ffhq-dataset) - 70.000 / 1024*1024 / 89 GB
+ * [Places365-Standard](http://places2.csail.mit.edu/download.html): Train(105GB)/Test(19GB)/Val(2.1GB)
+
+          wget http://data.csail.mit.edu/places/places365/train_large_places365standard.tar
+          wget http://data.csail.mit.edu/places/places365/val_large.tar
+          wget http://data.csail.mit.edu/places/places365/test_large.tar
+          https://hyper.ai/en/datasets/9427
+
+  * Places365-Challenge - around 8 million images
+  * [ADE20K](https://ade20k.csail.mit.edu/)
+  * [Imagenet](https://www.kaggle.com/c/imagenet-object-localization-challenge/overview/description)
+    * [Download from Kaggle](https://www.kaggle.com/competitions/imagenet-object-localization-challenge/data) - 1.2 Million images / 167 GB
+  * [Open Images Dataset](https://storage.googleapis.com/openimages/web/index.html)
+
 ### Conferences
 
 * [Siggraph: THE conference for computer graphics](https://www.siggraph.org/)

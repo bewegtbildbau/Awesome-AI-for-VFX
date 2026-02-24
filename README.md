@@ -32,6 +32,7 @@ A curated collection of research papers, tools, workflows, and repositories for 
 ### ML Runner
 
 * [ML Server](https://github.com/lprestini/ml-runner) - A gizmo in Nuke connectes to a Server which is able to run Models like SAM3 or Depth to Anything 3.
+* [Nuke ML Server](https://github.com/TheFoundryVisionmongers/nuke-ML-server) - Nuke node which connects to Python server for inference.
 
 ### Nuke MCP Server
 

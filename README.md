@@ -3,7 +3,10 @@ A curated collection of research papers, tools, workflows, and repositories for 
 
 ## Roto/Prep
 
-* :star: [SAM 3: Segement Anything](https://github.com/facebookresearch/sam3) - Used in productions. Great to generate masks for all kinds of things. For temping shots these can be great. Somtimes can replace manual rotoscoping.
+* :star: [SAM 3: Segement Anything](https://github.com/facebookresearch/sam3) - Used in productions. Great to generate segmented masks for all kinds of things. For temping shots these can be great. Somtimes can replace manual rotoscoping.
+* :star: [ViTMatte](https://github.com/hustvl/ViTMatte) - Great for fine detail masks.
+  * [ViTMatte Cattery from The Foundry](https://community.foundry.com/cattery/38821/vitmatte)
+  * [ViTMatte-for-Nuke](https://github.com/rafaelperez/ViTMatte-for-Nuke)
 
 ### Painting
 

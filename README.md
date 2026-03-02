@@ -28,6 +28,7 @@ A curated collection of research papers, tools, workflows, and repositories for 
 ### Dynamic range improvements
 
 * [LEDiff: Latent Exposure Diffusion for HDR Generation](https://lediff.mpi-inf.mpg.de/) - Resotring dynamic range through diffusion.
+* [8 bit to half float Copycat](https://movingimagearts.com/8-bit-to-half-float-copycat/) - Recovering highlights and fixing banding from 8 bit images / cattery file for Nuke / trained in Nuke with Arri footage
 
 ### ML Runner
 

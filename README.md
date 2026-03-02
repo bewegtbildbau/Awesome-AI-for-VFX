@@ -37,8 +37,6 @@ A curated collection of research papers, tools, workflows, and repositories for 
 
 ### Nuke MCP Server
 
-* Interesting idea. Could a distinct model be trained to learn how to comp which can be used localy as well?
-* :question: Could we make an AI autocomplete? Cursor for Nuke?
 * [MCP Server and Tool code for Nuke](https://github.com/dughogan/nuke_mcp)
 * [Another Nuke MCP](https://github.com/flowagent-sh/nuke-mcp)
 

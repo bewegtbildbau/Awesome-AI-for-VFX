@@ -23,7 +23,9 @@ A curated collection of research papers, tools, workflows, and repositories for 
 
 ## Compositing
 
-###
+### Keying
+
+* [CorridorKey](https://github.com/nikopueringer/CorridorKey) - keying and "advanced despilling" in one go
 
 ### Creating util layers
 

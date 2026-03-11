@@ -67,37 +67,19 @@ A curated collection of research papers, tools, workflows, and repositories for 
 
 * [CHORD: Generating PBR Materials](https://ubisoft-laforge.github.io/world/chord/)
 
-## Ligthing
-
 ## Rendering
 
 * Wētā FX ML Denoiser
 * Diseny ML Denoiser
 * [Intel Open Image Denoiser](https://www.openimagedenoise.org/)
 
-## Animation
-
-## VFX Editing
-
-## Pipeline
-
-## Production
-
 ## Gen AI
 
 * :star: [ComfyUI: Nuke for Models](https://github.com/Comfy-Org/ComfyUI) - Used in production. Node based GUI for diffusion models.
 
-### going beyond 1: HDR
+### going beyond 1.0: HDR
 
 * [ComfyUI HDR VAE Decode Node](https://github.com/netocg/vae-decode-hdr) - Looks quite intereisting. Original repo is down. Seems to be the same appraoch as LEDiff (see above).
-
-### Video
-
-### Stills
-
-## World Buidling AI
-
-## More Infos and Sources
 
 ### Data Sets
 

@@ -19,8 +19,6 @@ A curated collection of research papers, tools, workflows, and repositories for 
 * [LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions](https://github.com/advimman/lama)
   * [LaMa Cattery](https://community.foundry.com/cattery/38593/lama)
 
-###
-
 ## Compositing
 
 ### Keying
@@ -52,12 +50,6 @@ A curated collection of research papers, tools, workflows, and repositories for 
 
 * [MCP Server and Tool code for Nuke](https://github.com/dughogan/nuke_mcp)
 * [Another Nuke MCP](https://github.com/flowagent-sh/nuke-mcp)
-
-## Matte Painting
-
-## Matchmove
-
-## FX
 
 ## Modeling
 

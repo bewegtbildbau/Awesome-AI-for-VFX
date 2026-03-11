@@ -73,7 +73,7 @@ A curated collection of research papers, tools, workflows, and repositories for 
 
 * [ComfyUI HDR VAE Decode Node](https://github.com/netocg/vae-decode-hdr) - Looks quite intereisting. Original repo is down. Seems to be the same appraoch as LEDiff (see above).
 
-### Data Sets
+## Data Sets
 
 These sets come with different metadata like descriptions, segmentations and classifications.
 
@@ -92,11 +92,11 @@ These sets come with different metadata like descriptions, segmentations and cla
     * [Download from Kaggle](https://www.kaggle.com/competitions/imagenet-object-localization-challenge/data) - 1.2 Million images / 167 GB
   * [Open Images Dataset](https://storage.googleapis.com/openimages/web/index.html)
 
-### Conferences
+## Conferences
 
 * [Siggraph: THE conference for computer graphics](https://www.siggraph.org/)
 * [CVPR: THE conferfence for computer vision](https://cvpr.thecvf.com/)
 
-### Research Overview
+## Research Overview
 
 * [Artificial Intelligence in Creative Industries: Advances Prior to 2025](https://arxiv.org/html/2501.02725v4)

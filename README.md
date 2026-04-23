@@ -5,12 +5,13 @@ A curated collection of research papers, tools, workflows, and repositories for 
 
 ### Mask generation
 
-* :star: [SAM 2: Segement Anything](https://github.com/facebookresearch/sam2/) - Used in productions. Great to generate segmented masks for all kinds of things. For temping shots these can be great. Somtimes can replace manual rotoscoping.
-* [SAM 3: Segement Anything](https://github.com/facebookresearch/sam3) - The update to SAM2. The model accepts text descriptions for example. But the masks created by the segmentation seem to be less useful.
-* [YOLO](https://github.com/ultralytics/ultralytics) - "object detection, tracking, instance segmentation, image classification, and pose estimation"
-* :star: [ViTMatte](https://github.com/hustvl/ViTMatte) - Great for fine detail masks.
+* :star: [SAM 2: Segement Anything](https://github.com/facebookresearch/sam2/) - 2024 - Used in productions. Great to generate segmented masks for all kinds of things. For temping shots these can be great. Somtimes can replace manual rotoscoping.
+* [SAM 3: Segement Anything](https://github.com/facebookresearch/sam3) - 2025 - Not a strict update to SAM2. Concentrates on segmentation via prompts. Masks not as good as SAM2 (?).
+* [YOLO](https://github.com/ultralytics/ultralytics) - ongoing development - "object detection, tracking, instance segmentation, image classification, and pose estimation"
+* :star: [ViTMatte](https://github.com/hustvl/ViTMatte) - 2024 - Great for fine detail masks.
   * [ViTMatte Cattery from The Foundry](https://community.foundry.com/cattery/38821/vitmatte)
   * [ViTMatte-for-Nuke](https://github.com/rafaelperez/ViTMatte-for-Nuke)
+* [VideoMaMa](https://cvlab-kaist.github.io/VideoMaMa/) - 2026 - Improves existing Mattes.
 
 ### Painting
 

@@ -24,7 +24,11 @@ A curated collection of research papers, tools, workflows, and repositories for 
 
 ### Keying
 
-* [CorridorKey](https://github.com/nikopueringer/CorridorKey) - keying and "advanced despilling" in one go
+* [CorridorKey](https://github.com/nikopueringer/CorridorKey) - 2026 - Key improving and "advanced despilling" / color unmixing.
+
+### Creating layers
+
+* [OmnimatteZero](https://github.com/dvirsamuel/OmnimatteZero) - 2025 - OmnimatteZero creates layers from a video. E.g. an object with shadows/reflections and an inpainted background.
 
 ### Creating util layers
 

@@ -11,6 +11,7 @@ A curated collection of research papers, tools, workflows, and repositories for 
 * :star: [ViTMatte](https://github.com/hustvl/ViTMatte) - 2024 - Great for fine detail masks.
   * [ViTMatte Cattery from The Foundry](https://community.foundry.com/cattery/38821/vitmatte)
   * [ViTMatte-for-Nuke](https://github.com/rafaelperez/ViTMatte-for-Nuke)
+* [Generative Video Matting](https://github.com/aim-uofa/GVM) - 2025 - Generates video mattes.
 * [VideoMaMa](https://cvlab-kaist.github.io/VideoMaMa/) - 2026 - Improves existing Mattes.
 
 ### Painting

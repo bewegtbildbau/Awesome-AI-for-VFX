@@ -1,7 +1,10 @@
 # Awesome AI for VFX
 A curated collection of research papers, tools, workflows, and repositories for machine learning in visual effects, with a focus on compositing.
+
 :star: I know of use cases in VFX studios. I put these pretty conservative. Contact me if you know more.
+ 
 :radioactive: Nuke plugin exits.
+ 
 :gear: ComfyUI node exists.
 
 ## Roto/Prep

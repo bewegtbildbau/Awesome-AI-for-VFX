@@ -13,7 +13,8 @@ A curated collection of research papers, tools, workflows, and repositories for 
   * [ViTMatte-for-Nuke](https://github.com/rafaelperez/ViTMatte-for-Nuke)
 * [Generative Video Matting](https://github.com/aim-uofa/GVM) - 2025 - Generates video mattes.
 * [VideoMaMa](https://cvlab-kaist.github.io/VideoMaMa/) - 2026 - Improves existing Mattes.
-
+* [Robust Video Matting](https://github.com/PeterL1n/RobustVideoMatting) - 2021 -Old but fast
+  
 ### Painting
 
 * [Deep Learning-based Image and Video Inpainting: A Survey](https://arxiv.org/abs/2401.03395) - Overview of image and video inpainting mehtods.

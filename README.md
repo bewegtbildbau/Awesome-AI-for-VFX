@@ -40,7 +40,7 @@ A curated collection of research papers, tools, workflows, and repositories for 
 
 ### Creating util layers
 
-* :star: [Depth Anything 3](https://github.com/ByteDance-Seed/Depth-Anything-3/tree/main) - This is already heavily used in productions. For volumes/particles this can sometimes be enough to integrate elements without the need for rotoscoping/rotomation.
+* :star: [Depth Anything 3](https://github.com/ByteDance-Seed/Depth-Anything-3/tree/main) - For volumes/particles this can sometimes be enough to integrate elements without the need for rotoscoping/rotomation.
 * :star: :gear: [Depth Pro: Sharp Monocular Metric Depth in Less Than a Second](https://github.com/apple/ml-depth-pro)
   * [Depth Pro Cattery](https://community.foundry.com/cattery/38820/depthpro)
 

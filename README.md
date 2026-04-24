@@ -12,14 +12,14 @@ A curated collection of research papers, tools, workflows, and repositories for 
 ### Mask generation
 
 * :star: :radioactive: :gear:  [SAM 2: Segement Anything](https://github.com/facebookresearch/sam2/) - 2024 - Used in productions. Great to generate segmented masks for all kinds of things. For temping shots these can be great. Somtimes can replace manual rotoscoping.
-* :gear: [SAM 3: Segement Anything](https://github.com/facebookresearch/sam3) - 2025 - Not a strict update to SAM2. Concentrates on segmentation via prompts. Masks not as good as SAM2 (?).
-* [YOLO](https://github.com/ultralytics/ultralytics) - ongoing development - "object detection, tracking, instance segmentation, image classification, and pose estimation"
+* :radioactive: :gear: [SAM 3: Segement Anything](https://github.com/facebookresearch/sam3) - 2025 - Not a strict update to SAM2. Concentrates on segmentation via prompts. Masks not as good as SAM2 (?).
+* :gear: (older models)  [YOLO](https://github.com/ultralytics/ultralytics) - ongoing development - "object detection, tracking, instance segmentation, image classification, and pose estimation"
 * :star: :radioactive: :gear: [ViTMatte](https://github.com/hustvl/ViTMatte) - 2023 - Great for fine detail masks.
   * [ViTMatte Cattery from The Foundry](https://community.foundry.com/cattery/38821/vitmatte)
   * [ViTMatte-for-Nuke](https://github.com/rafaelperez/ViTMatte-for-Nuke)
 * [Generative Video Matting](https://github.com/aim-uofa/GVM) - 2025 - Generates video mattes.
-* [VideoMaMa](https://cvlab-kaist.github.io/VideoMaMa/) - 2026 - Improves existing Mattes.
-* [Robust Video Matting](https://github.com/PeterL1n/RobustVideoMatting) - 2021 -Old but fast
+* :gear: [VideoMaMa](https://cvlab-kaist.github.io/VideoMaMa/) - 2026 - Improves existing Mattes.
+* :radioactive: :gear: [Robust Video Matting](https://github.com/PeterL1n/RobustVideoMatting) - 2021 -Old but fast
   
 ### Painting
 

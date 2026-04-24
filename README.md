@@ -97,6 +97,7 @@ These sets come with different metadata like descriptions, segmentations and cla
   * [Imagenet](https://www.kaggle.com/c/imagenet-object-localization-challenge/overview/description)
     * [Download from Kaggle](https://www.kaggle.com/competitions/imagenet-object-localization-challenge/data) - 1.2 Million images / 167 GB
   * [Open Images Dataset](https://storage.googleapis.com/openimages/web/index.html)
+  * [Dynamic Replica](https://dynamic-stereo.github.io/) - synthetic data set containing several util layers / approx 140.000 frames / 1280*720
 
 ## Conferences
 

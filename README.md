@@ -11,10 +11,10 @@ A curated collection of research papers, tools, workflows, and repositories for 
 
 ### Mask generation
 
-* :star: [SAM 2: Segement Anything](https://github.com/facebookresearch/sam2/) - 2024 - Used in productions. Great to generate segmented masks for all kinds of things. For temping shots these can be great. Somtimes can replace manual rotoscoping.
-* [SAM 3: Segement Anything](https://github.com/facebookresearch/sam3) - 2025 - Not a strict update to SAM2. Concentrates on segmentation via prompts. Masks not as good as SAM2 (?).
+* :star: :radioactive: :gear:  [SAM 2: Segement Anything](https://github.com/facebookresearch/sam2/) - 2024 - Used in productions. Great to generate segmented masks for all kinds of things. For temping shots these can be great. Somtimes can replace manual rotoscoping.
+* :gear: [SAM 3: Segement Anything](https://github.com/facebookresearch/sam3) - 2025 - Not a strict update to SAM2. Concentrates on segmentation via prompts. Masks not as good as SAM2 (?).
 * [YOLO](https://github.com/ultralytics/ultralytics) - ongoing development - "object detection, tracking, instance segmentation, image classification, and pose estimation"
-* :star: [ViTMatte](https://github.com/hustvl/ViTMatte) - 2024 - Great for fine detail masks.
+* :star: :radioactive: :gear: [ViTMatte](https://github.com/hustvl/ViTMatte) - 2023 - Great for fine detail masks.
   * [ViTMatte Cattery from The Foundry](https://community.foundry.com/cattery/38821/vitmatte)
   * [ViTMatte-for-Nuke](https://github.com/rafaelperez/ViTMatte-for-Nuke)
 * [Generative Video Matting](https://github.com/aim-uofa/GVM) - 2025 - Generates video mattes.
@@ -24,7 +24,7 @@ A curated collection of research papers, tools, workflows, and repositories for 
 ### Painting
 
 * [Deep Learning-based Image and Video Inpainting: A Survey](https://arxiv.org/abs/2401.03395) - Overview of image and video inpainting mehtods.
-* [ProPainter: Improving Propagation and Transformer for Video Inpainting](https://shangchenzhou.com/projects/ProPainter/)
+* [ProPainter: Improving Propagation and Transformer for Video Inpainting](https://shangchenzhou.com/projects/ProPainter/) - 2023
 * [LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions](https://github.com/advimman/lama)
   * [LaMa Cattery](https://community.foundry.com/cattery/38593/lama)
 
@@ -41,12 +41,12 @@ A curated collection of research papers, tools, workflows, and repositories for 
 ### Creating util layers
 
 * :star: [Depth Anything 3](https://github.com/ByteDance-Seed/Depth-Anything-3/tree/main) - This is already heavily used in productions. For volumes/particles this can sometimes be enough to integrate elements without the need for rotoscoping/rotomation.
-* :star: [Depth Pro: Sharp Monocular Metric Depth in Less Than a Second](https://github.com/apple/ml-depth-pro)
+* :star: :gear: [Depth Pro: Sharp Monocular Metric Depth in Less Than a Second](https://github.com/apple/ml-depth-pro)
   * [Depth Pro Cattery](https://community.foundry.com/cattery/38820/depthpro)
 
 ### Deblurring
 
-[FMA-Net: Flow-Guided Dynamic Filtering and Iterative Feature Refinement with Multi-Attention for Joint Video Super-Resolution and Deblurring
+* [FMA-Net: Flow-Guided Dynamic Filtering and Iterative Feature Refinement with Multi-Attention for Joint Video Super-Resolution and Deblurring
 ] (https://kaist-viclab.github.io/fmanet-site/)
 
 ### Dynamic range improvements
@@ -54,15 +54,15 @@ A curated collection of research papers, tools, workflows, and repositories for 
 * [LEDiff: Latent Exposure Diffusion for HDR Generation](https://lediff.mpi-inf.mpg.de/) - Resotring dynamic range through diffusion.
 * [8 bit to half float Copycat](https://movingimagearts.com/8-bit-to-half-float-copycat/) - Recovering highlights and fixing banding from 8 bit images / cattery file for Nuke / trained in Nuke with Arri footage
 
-### ML Runner
+### Nuke ML Bridges
 
-* [ML Server](https://github.com/lprestini/ml-runner) - A gizmo in Nuke connectes to a Server which is able to run Models like SAM3 or Depth to Anything 3.
-* [Nuke ML Server](https://github.com/TheFoundryVisionmongers/nuke-ML-server) - Nuke node which connects to Python server for inference.
+* :radioactive: [ML Runner](https://github.com/lprestini/ml-runner) - A gizmo in Nuke connectes to a Server which is able to run Models like SAM3 or Depth to Anything 3.
+* :radioactive: [Machine Learning Frame Server](https://github.com/TheFoundryVisionmongers/nuke-ML-server) - Nuke node which connects to Python server for inference.
 
 ### Nuke MCP Server
 
-* [MCP Server and Tool code for Nuke](https://github.com/dughogan/nuke_mcp)
-* [Another Nuke MCP](https://github.com/flowagent-sh/nuke-mcp)
+* :radioactive: [Nuke-MCP](https://github.com/dughogan/nuke_mcp) - MCP server for Nuke
+* :radioactive: [Nuke MCP bridge](https://github.com/flowagent-sh/nuke-mcp) - MCP server for Nuke
 
 ## Modeling
 
@@ -70,7 +70,7 @@ A curated collection of research papers, tools, workflows, and repositories for 
 
 ## Shading/Texturing
 
-* [CHORD: Generating PBR Materials](https://ubisoft-laforge.github.io/world/chord/)
+* :gear: [CHORD: Generating PBR Materials](https://ubisoft-laforge.github.io/world/chord/)
 
 ## Rendering
 
@@ -80,11 +80,11 @@ A curated collection of research papers, tools, workflows, and repositories for 
 
 ## Gen AI
 
-* :star: [ComfyUI: Nuke for Models](https://github.com/Comfy-Org/ComfyUI) - Used in production. Node based GUI for diffusion models.
+* :star: [ComfyUI](https://github.com/Comfy-Org/ComfyUI) - Node based tool for ML - Used in production. Node based GUI for diffusion models.
 
 ### going beyond 1.0: HDR
 
-* [ComfyUI HDR VAE Decode Node](https://github.com/netocg/vae-decode-hdr) - Looks quite intereisting. Original repo is down. Seems to be the same appraoch as LEDiff (see above).
+* :gear: [ComfyUI HDR VAE Decode Node](https://github.com/netocg/vae-decode-hdr) - Looks quite intereisting. Original repo is down. Seems to be the same appraoch as LEDiff (see above).
 
 ## Data Sets
 
@@ -92,7 +92,7 @@ These sets come with different metadata like descriptions, segmentations and cla
 
  * [CelebA HQ](https://github.com/switchablenorms/CelebAMask-HQ) - 30.000 cropped images of heads / 1024*1024 / 2.8 GB
  * [Flickr-Faces-HQ Dataset ](https://github.com/NVlabs/ffhq-dataset) - 70.000 / 1024*1024 / 89 GB
- * [Places365-Standard](http://places2.csail.mit.edu/download.html): Train(105GB)/Test(19GB)/Val(2.1GB)
+ * [Places365-Standard](http://places2.csail.mit.edu/download.html) - Train(105GB)/Test(19GB)/Val(2.1GB)
 
           wget http://data.csail.mit.edu/places/places365/train_large_places365standard.tar
           wget http://data.csail.mit.edu/places/places365/val_large.tar
@@ -105,12 +105,12 @@ These sets come with different metadata like descriptions, segmentations and cla
     * [Download from Kaggle](https://www.kaggle.com/competitions/imagenet-object-localization-challenge/data) - 1.2 Million images / 167 GB
   * [Open Images Dataset](https://storage.googleapis.com/openimages/web/index.html)
   * [Dynamic Replica](https://dynamic-stereo.github.io/) - synthetic data set containing several util layers / approx 140.000 frames in voer 500 videos / 1280*720
-  * [BEDLAM](https://bedlam.is.tue.mpg.de/) 0 synthetic data set containing several util layers / 10.450 image sequences / 1280*720
+  * [BEDLAM](https://bedlam.is.tue.mpg.de/) - synthetic data set containing several util layers / 10.450 image sequences / 1280*720
 
 ## Conferences
 
-* [Siggraph: THE conference for computer graphics](https://www.siggraph.org/)
-* [CVPR: THE conferfence for computer vision](https://cvpr.thecvf.com/)
+* [Siggraph](https://www.siggraph.org/) - THE conference for computer graphics
+* [CVPR](https://cvpr.thecvf.com/) - THE conferfence for computer vision
 
 ## Research Overview
 

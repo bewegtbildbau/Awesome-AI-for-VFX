@@ -80,7 +80,13 @@ A curated collection of research papers, tools, workflows, and repositories for 
 
 ## Gen AI
 
+I am  not going to cover the (very fast) moving field of Gen AI. I am going to list some interesting finds in this realm.
+
 * :star: [ComfyUI](https://github.com/Comfy-Org/ComfyUI) - Node based tool for ML - Used in production. Node based GUI for diffusion models.
+
+### transparency for diffusion
+
+* [Transparent Image Layer Diffusion using Latent Transparency](https://github.com/lllyasviel/LayerDiffuse) - 2024 - repo basically empty - some other implementations seem to exist
 
 ### going beyond 1.0: HDR
 

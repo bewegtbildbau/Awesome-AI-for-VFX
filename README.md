@@ -121,3 +121,7 @@ These sets come with different metadata like descriptions, segmentations and cla
 ## Research Overview
 
 * [Artificial Intelligence in Creative Industries: Advances Prior to 2025](https://arxiv.org/html/2501.02725v4)
+
+## Some talks and more general info about the use of AI in VFX
+
+* [Real Applications of Gen AI in Visual Effects](https://vimeo.com/1060631070) - 2025 - not touching VFX studio workflows a lot

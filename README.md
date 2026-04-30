@@ -129,3 +129,4 @@ These sets come with different metadata like descriptions, segmentations and cla
 ## Some talks and more general info about the use of AI in VFX
 
 * [Real Applications of Gen AI in Visual Effects](https://vimeo.com/1060631070) - 2025 - not touching VFX studio workflows a lot
+* [Let's talk about AI and the VFX industry | Leading CGI experts panel](https://www.youtube.com/watch?v=1t778a3AfyI) - 2025 - pretty top level e.g. ethics of usage

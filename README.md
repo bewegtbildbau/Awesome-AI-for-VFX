@@ -128,6 +128,7 @@ These sets come with different metadata like descriptions, segmentations and cla
 
 ## Some talks and more general info about the use of AI in VFX
 
+* [Roto and Prep in the age of AI | a Visual Effects Society London Event](https://www.youtube.com/watch?v=NDEKzBeOcZ4) - 2026 - good overview of what studios and software companies are working on
 * [Real Applications of Gen AI in Visual Effects](https://vimeo.com/1060631070) - 2025 - not touching VFX studio workflows a lot
 * [Let's talk about AI and the VFX industry | Leading CGI experts panel](https://www.youtube.com/watch?v=1t778a3AfyI) - 2025 - pretty top level e.g. ethics of usage
-* [Roto and Prep in the age of AI | a Visual Effects Society London Event](https://www.youtube.com/watch?v=NDEKzBeOcZ4) - 2026 - good overview of what studios and software companies are working on
+* [How Generative AI Might Affect VFX Now and In the Future](https://vimeo.com/933093258) - 2024 - very good overview and not just about GenAI

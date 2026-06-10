@@ -50,8 +50,7 @@ Links are mostly to github. Only to paper if no github available.
 
 ### Deblurring
 
-* [FMA-Net: Flow-Guided Dynamic Filtering and Iterative Feature Refinement with Multi-Attention for Joint Video Super-Resolution and Deblurring
-] (https://kaist-viclab.github.io/fmanet-site/)
+* [FMA-Net: Flow-Guided Dynamic Filtering and Iterative Feature Refinement with Multi-Attention for Joint Video Super-Resolution and Deblurring] (https://kaist-viclab.github.io/fmanet-site/)
 
 ### Dynamic range improvements
 

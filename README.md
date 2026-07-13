@@ -15,21 +15,21 @@ Links are mostly to github. Only to paper if no github available.
 
 ### Mask generation
 
-* :star: :radioactive: :gear:  [SAM 2: Segement Anything](https://github.com/facebookresearch/sam2/) - 2024 - Great to generate segmented masks for all kinds of things. For temping shots these can be great. Somtimes can replace manual rotoscoping.
-* :radioactive: :gear: [SAM 3: Segement Anything](https://github.com/facebookresearch/sam3) - 2025 - Not a strict update to SAM2. Concentrates on segmentation via prompts. Masks not as good as SAM2 (?).
+* :gear: [VideoMaMa](https://cvlab-kaist.github.io/VideoMaMa/) - 2026 - Improves existing Mattes.
 * :gear: (older models)  [YOLO](https://github.com/ultralytics/ultralytics) - ongoing development - "object detection, tracking, instance segmentation, image classification, and pose estimation"
+* [Generative Video Matting](https://github.com/aim-uofa/GVM) - 2025 - Generates video mattes.
+* :radioactive: :gear: [SAM 3: Segement Anything](https://github.com/facebookresearch/sam3) - 2025 - Not a strict update to SAM2. Concentrates on segmentation via prompts. Masks not as good as SAM2 (?).
+* :star: :radioactive: :gear:  [SAM 2: Segement Anything](https://github.com/facebookresearch/sam2/) - 2024 - Great to generate segmented masks for all kinds of things. For temping shots these can be great. Somtimes can replace manual rotoscoping.
 * :star: :radioactive: :gear: [ViTMatte](https://github.com/hustvl/ViTMatte) - 2023 - Great for fine detail masks.
   * [ViTMatte Cattery from The Foundry](https://community.foundry.com/cattery/38821/vitmatte)
   * [ViTMatte-for-Nuke](https://github.com/rafaelperez/ViTMatte-for-Nuke)
-* [Generative Video Matting](https://github.com/aim-uofa/GVM) - 2025 - Generates video mattes.
-* :gear: [VideoMaMa](https://cvlab-kaist.github.io/VideoMaMa/) - 2026 - Improves existing Mattes.
 * :radioactive: :gear: [Robust Video Matting](https://github.com/PeterL1n/RobustVideoMatting) - 2021 -Old but fast
   
 ### Painting
 
-* [Deep Learning-based Image and Video Inpainting: A Survey](https://arxiv.org/abs/2401.03395) - Overview of image and video inpainting mehtods.
+* [Deep Learning-based Image and Video Inpainting: A Survey](https://arxiv.org/abs/2401.03395) - 2024 - Overview of image and video inpainting mehtods.
 * [ProPainter: Improving Propagation and Transformer for Video Inpainting](https://shangchenzhou.com/projects/ProPainter/) - 2023
-* [LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions](https://github.com/advimman/lama)
+* [LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions](https://github.com/advimman/lama) - 2022
   * [LaMa Cattery](https://community.foundry.com/cattery/38593/lama)
 
 ## Compositing
@@ -44,13 +44,14 @@ Links are mostly to github. Only to paper if no github available.
 
 ### Creating util layers
 
-* :star: [Depth Anything 3](https://github.com/ByteDance-Seed/Depth-Anything-3/tree/main)
-  * :radioactive: [Depth Anything 3 for Nuke](https://github.com/petermercell/Depth-Anything-3-for-Nuke)
-* :star: :gear: [Depth Pro: Sharp Monocular Metric Depth in Less Than a Second](https://github.com/apple/ml-depth-pro)
-  * :radioactive: [Depth Pro Cattery](https://community.foundry.com/cattery/38820/depthpro)
-* :star: [Depth Crafter](https://depthcrafter.github.io/)
+* :gear: [RollingDepth](https://github.com/prs-eth/rollingdepth) - 2025
+* :star: [Depth Crafter](https://depthcrafter.github.io/) - 2025
   * :radioactive: [DepthCrafter for Nuke](https://github.com/Theo-SAMINADIN-td/NukeDepthCrafter)
-* :gear: [RollingDepth](https://github.com/prs-eth/rollingdepth)
+* :star: [Depth Anything 3](https://github.com/ByteDance-Seed/Depth-Anything-3/tree/main) - 2025
+  * :radioactive: [Depth Anything 3 for Nuke](https://github.com/petermercell/Depth-Anything-3-for-Nuke)
+* :star: :gear: [Depth Pro: Sharp Monocular Metric Depth in Less Than a Second](https://github.com/apple/ml-depth-pro) - 2025
+  * :radioactive: [Depth Pro Cattery](https://community.foundry.com/cattery/38820/depthpro)
+
 
 ### Deblurring
 
@@ -70,6 +71,10 @@ Links are mostly to github. Only to paper if no github available.
 
 * :radioactive: [Nuke-MCP](https://github.com/dughogan/nuke_mcp) - MCP server for Nuke
 * :radioactive: [Nuke MCP bridge](https://github.com/flowagent-sh/nuke-mcp) - MCP server for Nuke
+
+## Gaussion Splats
+
+* [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://arxiv.org/abs/2308.04079) - obviously a big topic and implemented in Nuke 17 already but as an honorable mention 
 
 ## Modeling
 

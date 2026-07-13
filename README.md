@@ -29,6 +29,7 @@ Links are mostly to github. Only to paper if no github available.
 
 * [VOID: Video Object and Interaction Deletion](https://github.com/Netflix/void-model) - 2026
 * [SVOR (Stable Video Object Removal)](https://github.com/xiaomi-research/svor/) - 2025
+* [MiniMax-Remover](https://github.com/zibojia/MiniMax-Remover) - 2025
 * [Deep Learning-based Image and Video Inpainting: A Survey](https://arxiv.org/abs/2401.03395) - 2024 - Overview of image and video inpainting mehtods.
 * [ProPainter: Improving Propagation and Transformer for Video Inpainting](https://shangchenzhou.com/projects/ProPainter/) - 2023
 * :star: [LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions](https://github.com/advimman/lama) - 2022

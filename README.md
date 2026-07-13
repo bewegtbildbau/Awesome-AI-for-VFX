@@ -44,9 +44,13 @@ Links are mostly to github. Only to paper if no github available.
 
 ### Creating util layers
 
-* :star: [Depth Anything 3](https://github.com/ByteDance-Seed/Depth-Anything-3/tree/main) - For volumes/particles this can sometimes be enough to integrate elements without the need for rotoscoping/rotomation.
+* :star: [Depth Anything 3](https://github.com/ByteDance-Seed/Depth-Anything-3/tree/main)
+ * *radioactive*: [Depth Anything 3 for Nuke](https://github.com/petermercell/Depth-Anything-3-for-Nuke)
 * :star: :gear: [Depth Pro: Sharp Monocular Metric Depth in Less Than a Second](https://github.com/apple/ml-depth-pro)
-  * [Depth Pro Cattery](https://community.foundry.com/cattery/38820/depthpro)
+  * :radioactive: [Depth Pro Cattery](https://community.foundry.com/cattery/38820/depthpro)
+* :star: [Depth Crafter](https://depthcrafter.github.io/)
+  * :radioactive: [DepthCrafter for Nuke](https://github.com/Theo-SAMINADIN-td/NukeDepthCrafter)
+* :gear: [RollingDepth](https://github.com/prs-eth/rollingdepth)
 
 ### Deblurring
 

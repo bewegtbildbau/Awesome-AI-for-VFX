@@ -3,7 +3,7 @@ A curated collection of research papers, tools, workflows, and repositories for 
 
 I am mostly interested where ML can help with the chore of our work.
 
-:star: I know of use cases in VFX studios. I put these pretty conservative. Contact me if you know more.
+:star: I heard of use cases in VFX studios. I put these pretty conservative. Contact me if you know more.
  
 :radioactive: Nuke plugin exits.
  
@@ -31,8 +31,8 @@ Links are mostly to github. Only to paper if no github available.
 * [SVOR (Stable Video Object Removal)](https://github.com/xiaomi-research/svor/) - 2025
 * [Deep Learning-based Image and Video Inpainting: A Survey](https://arxiv.org/abs/2401.03395) - 2024 - Overview of image and video inpainting mehtods.
 * [ProPainter: Improving Propagation and Transformer for Video Inpainting](https://shangchenzhou.com/projects/ProPainter/) - 2023
-* [LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions](https://github.com/advimman/lama) - 2022
-  * [LaMa Cattery](https://community.foundry.com/cattery/38593/lama)
+* :star: [LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions](https://github.com/advimman/lama) - 2022
+  * :radioactive: [LaMa Cattery](https://community.foundry.com/cattery/38593/lama)
 
 ## Compositing
 
